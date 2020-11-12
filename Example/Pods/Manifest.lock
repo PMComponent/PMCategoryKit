@@ -1,0 +1,16 @@
+PODS:
+  - PMCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - PMCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  PMCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PMCategoryKit: 34991dc0aed23e0744e1c26ddc200e1dcd5cd18c
+
+PODFILE CHECKSUM: d46fd4fbfbe408165415198eabaca997fb3f33de
+
+COCOAPODS: 1.9.0
